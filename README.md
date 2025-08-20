@@ -56,4 +56,4 @@ The plugin should fully unload.
 If not, 
 
 ## Report plugin related bugs
-You can report any issues you findm, **related to plugins**, to the plugin’s creator or in Discord -> [report-bugs channel](https://discord.com/channels/864582745531088946/954446596928598077).
+You can report any issues you find, **related to plugins**, to the plugin’s creator or in Discord -> [report-bugs channel](https://discord.com/channels/864582745531088946/954446596928598077).
