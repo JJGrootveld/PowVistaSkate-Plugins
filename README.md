@@ -1,4 +1,4 @@
-# PowVistaSkate-Plugins
+# Pow Vista Skate Plugins
 A collection of custom community and developer-created plugins for Pow Vista, designed to enhance your gameplay experience with new features, improved quality-of-life tools, and unique visual effects.
 
 ## What Are Plugins?
