@@ -29,11 +29,7 @@ No. Plugins are distributed as .dll files, which can only be enabled on PC build
 
 2️⃣ Scroll down to Custom Plugins Folder and set where plugins should load from.
 
-3️⃣ Place your plugin file(s) inside the plugins folder.
-
-Can be a simple .dll file
-
-Or a .zip archive that must be extracted before moving
+3️⃣ Place your plugin file(s) inside the plugins folder (Can be a simple .dll file, or a .zip archive that must be extracted before moving).
 
 4️⃣ Return to Pow Vista Settings → Click Rescan to detect the new plugins.
 
