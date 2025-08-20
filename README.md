@@ -53,4 +53,4 @@ Uncheck the box next to the plugin you wish to disable.
 
 The plugin should fully unload.
 
-If not, report the issue to the plugin’s creator or in Discord -> ![report-bugs channel](https://discord.com/channels/864582745531088946/954446596928598077).
+If not, report the issue to the plugin’s creator or in Discord -> [report-bugs channel](https://discord.com/channels/864582745531088946/954446596928598077).
