@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jgrootveld/Downloads/Lootbeam-rewrite/LootBeam/LootBeam.csproj": {}
+  },
+  "projects": {
+    "/Users/jgrootveld/Downloads/Lootbeam-rewrite/LootBeam/LootBeam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jgrootveld/Downloads/Lootbeam-rewrite/LootBeam/LootBeam.csproj",
+        "projectName": "LootBeam",
+        "projectPath": "/Users/jgrootveld/Downloads/Lootbeam-rewrite/LootBeam/LootBeam.csproj",
+        "packagesPath": "/Users/jgrootveld/.nuget/packages/",
+        "outputPath": "/Users/jgrootveld/Downloads/Lootbeam-rewrite/LootBeam/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jgrootveld/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/jgrootveld/.dotnet/sdk/9.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
